@@ -1,0 +1,5 @@
+{
+  "name": "Rewards Login UX",
+  "description": "A high-fidelity login interface with persistent global errors, live inline validation, and modern rewards styling.",
+  "requestFramePermissions": []
+}
